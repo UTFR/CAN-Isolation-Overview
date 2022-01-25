@@ -1,7 +1,7 @@
 # CAN-Isolation Board Overview
 By: Ayrton Antenucci, Electric Powertrain Design, University of Toronto Formula Racing
 
-Each year, the University of Toronto Formula Racing Team (UTFR) designs and builds a car to compete in international Formula SAE (Formula Student) events. As such, the team must ensure all elements of the vehicle, including the electric powertrain, comply entirely with Formula SAE regulations. This article will discuss the team’s first CAN-Isolation board, including its purpose, functionality, and design. All of UTFR’s boards are fabricated in collaboration with JLCPCB (www.jlcpcb.com), a leading PCB manufacturer providing high quality, reliable, and cost-effective PCBs at a consistently rapid pace. 
+Each year, the University of Toronto Formula Racing Team (UTFR) designs and builds a car to compete in international Formula SAE (Formula Student) events. As such, the team must ensure all elements of the vehicle, including the electric powertrain, comply entirely with Formula SAE regulations. This article will discuss the team’s first CAN-Isolation board, including its purpose, functionality, and design. All of UTFR’s boards are fabricated in collaboration with JLCPCB (www.jlcpcb.com/RAT), a leading PCB manufacturer providing high quality, reliable, and cost-effective PCBs at a consistently rapid pace. 
 
 ## Purpose and Functionality
     
@@ -28,6 +28,6 @@ For debugging purposes, switches are present on both CAN bus termination circuit
 The CAN-Isolation board was manufactured with exceptional quality by JLCPCB within days of ordering. If desired, JLCPCB also offers SMT assembly with just a 24h turnaround time. The ordering process is remarkably simple:
 
   1) Export Gerber files of PCB project
-  2) Click ‘Order Now’ on www.jlcpcb.com
+  2) Click ‘Order Now’ on www.jlcpcb.com/RAT
   3) Upload Gerber files, confirm generated PCB requirements and preferences
   4) Once all PCBs are saved to cart, proceed to checkout.
